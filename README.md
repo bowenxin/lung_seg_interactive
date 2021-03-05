@@ -1,5 +1,7 @@
 # Interactive Lung Tumour Segmentation Software
-An open source software for Interactive Lung Tumour segmentation based on **Matlab** GUI. This software provides a tool to integrate prior knowledge of clinical experts using a few seeds with data-driven algorithms based on Random Walker. The graphical interface provides view-mode and draw-mode for image viewing and seed drawing respectively. It has been used in the research project for survival analysis of local advanced non-small cell lung cancer using CT images. ![software interface](https://github.com/bowenxin/lung_seg_interactive/blob/main/images/interface.png)
+An open source software for Interactive Lung Tumour segmentation based on **Matlab** GUI. This software provides a tool to integrate prior knowledge of clinical experts using a few seeds with data-driven algorithms based on Random Walker. The graphical interface provides view-mode and draw-mode for image viewing and seed drawing respectively. It has been used in the research project for survival analysis of local advanced non-small cell lung cancer using CT images. 
+
+<img width="1275" alt="interface" src="https://user-images.githubusercontent.com/10879680/110115323-05fa6200-7e0a-11eb-9bbd-18694f66b9e7.png">
 
 # Functions
 - **View-mode** (defaut)
@@ -14,8 +16,7 @@ An open source software for Interactive Lung Tumour segmentation based on **Matl
   - *Control Panel*-delete all: remove all seeds of current patients and start again
 
 # Citation
-Wang, Linlin, et al. "Integrative nomogram of CT imaging, clinical, and hematological features for survival prediction of patients with locally advanced non-small cell lung cancer." 
-European radiology 29.6 (2019): 2958-2967.
+Wang, Linlin, et al. "Integrative nomogram of CT imaging, clinical, and hematological features for survival prediction of patients with locally advanced non-small cell lung cancer." European radiology 29.6 (2019): 2958-2967.
 
 # Video demonstration
 Will be released soon.
