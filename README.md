@@ -2,7 +2,7 @@
 An open source software for Interactive Lung Tumour segmentation based on **Matlab** GUI. This software provides a tool to integrate prior knowledge of clinical experts using a few seeds with data-driven algorithms based on Random Walker. The graphical interface provides view-mode and draw-mode for image viewing and seed drawing respectively. It has been used in the research project for survival analysis of local advanced non-small cell lung cancer using CT images. ![software interface](https://github.com/bowenxin/lung_seg_interactive/blob/main/images/interface.png)
 
 # Functions
-- **View-mode (defaut)**
+- **View-mode** (defaut)
   - *Load Panel*: For loading CT images.
   - *Status and Patients Panel*: For showing image resolution, patient ID.
   - *CT Window Panel*: 1) Lung window, 2) Mediastinum window
