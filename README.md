@@ -1,7 +1,5 @@
 # Interactive Lung Tumour Segmentation Software
-An open source software for Interactive Lung Tumour segmentation based on **Matlab** GUI. The underlying segmentation algorithm was based on Random Walker while prior knowledge 
-can be integrated into segmentation interactively using seeds. The developped tumor segmentation framework was used in research project for survival analysis of locally advanced 
-non-small cell lung cancer based on CT images.
+An open source software for Interactive Lung Tumour segmentation based on **Matlab** GUI. This software provides a tool to integrate prior knowledge of clinical experts using a few seeds with data-driven algorithms based on Random Walker. The graphical interface provides view-mode and draw-mode for image viewing and seed drawing respectively. It has been used in the research project for survival analysis of local advanced non-small cell lung cancer using CT images.
 
 # Functions
 1) CT Image Loading
